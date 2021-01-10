@@ -1,0 +1,6 @@
+.home .jumbotron {
+  background: url(https://images4.alphacoders.com/972/9728.jpg) center center;
+  background-size: cover;
+  min-height: 600px;
+  width: 100%;
+}
